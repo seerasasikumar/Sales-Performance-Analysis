@@ -2,60 +2,93 @@
 
 ## 📌 Project Overview
 
-This project analyzes sales data to identify business trends, top-performing products, regional sales performance, and customer purchasing behavior using Excel, SQL, Power BI, and Python.
+This project analyzes the Superstore Sales dataset to identify business trends, sales performance, customer behavior, and profitability using Excel, SQL, Python, and Power BI.
 
 ---
 
 ## 🎯 Business Objective
 
-The objective of this project is to transform raw sales data into actionable business insights that support data-driven decision-making.
+The objective is to transform raw sales data into actionable business insights that support better business decisions.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
-- SQL
-- Power BI
-- Python
-- GitHub
+- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Microsoft Power BI
+- Git & GitHub
 
 ---
 
 ## 📂 Repository Structure
 
-- 📁 Dataset
-- 📁 SQL
-- 📁 Excel
-- 📁 PowerBI
-- 📁 Python
-- 📁 Dashboard
-- 📁 Images
+📁 Dataset
+
+📁 Excel
+
+📁 SQL
+
+📁 Python
+
+📁 PowerBI
+
+📁 Dashboard
+
+📁 Images
 
 ---
 
-## 📈 Key Business Questions
+## 📈 Key Performance Indicators
 
-- Which products generate the highest sales?
-- Which region performs the best?
-- What are the monthly sales trends?
-- Which customers contribute the most revenue?
-- Which categories generate the highest profit?
-
----
-
-## 📊 Dashboard
-
-Dashboard screenshots will be available in the **Dashboard** folder.
+- Total Sales
+- Total Profit
+- Total Orders
+- Average Order Value
+- Profit Margin
 
 ---
 
-## 🚀 Future Enhancements
+## 📊 Dashboard Features
+
+- Sales by Category
+- Profit by Category
+- Sales by Region
+- Profit by Region
+- Top 10 Products
+- Top 10 Customers
+- Interactive Filters
+
+---
+
+## 💼 Business Insights
+
+- Technology category generated the highest sales.
+- West region achieved the highest revenue.
+- Furniture generated the lowest profit.
+- A small group of customers contributed a large portion of sales.
+
+---
+
+## 📷 Dashboard Preview
+
+### Page 1
+
+(Add Dashboard_Page1.png)
+
+### Page 2
+
+(Add Dashboard_Page2.png)
+
+---
+
+## 🚀 Future Improvements
 
 - Sales Forecasting
 - Customer Segmentation
-- Profit Prediction
-- Interactive Power BI Dashboard
+- Predictive Analytics
+- Interactive Executive Dashboard
 
 ---
 
@@ -67,13 +100,3 @@ Aspiring Data Analyst
 
 LinkedIn:
 https://www.linkedin.com/in/seerasasikumar
-
-## Dashboard Preview
-
-### Page 1
-
-![Dashboard Page 1](Dashboard/Dashboard_Page1.png)
-
-### Page 2
-
-![Dashboard Page 2](Dashboard/Dashboard_Page2.png)
