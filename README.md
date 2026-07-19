@@ -67,3 +67,13 @@ Aspiring Data Analyst
 
 LinkedIn:
 https://www.linkedin.com/in/seerasasikumar
+
+## Dashboard Preview
+
+### Page 1
+
+![Dashboard Page 1](Dashboard/Dashboard_Page1.png)
+
+### Page 2
+
+![Dashboard Page 2](Dashboard/Dashboard_Page2.png)
