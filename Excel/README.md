@@ -12,7 +12,6 @@ Sample Superstore Sales Dataset
 
 - Pivot Tables
 - Pivot Charts
-- Slicers (if used)
 - KPI Cards
 - Data Cleaning
 - Sorting & Filtering
